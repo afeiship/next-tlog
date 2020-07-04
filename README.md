@@ -15,7 +15,8 @@ npm install -S @feizheng/next-tlog
 ```js
 import '@feizheng/next-tlog';
 
-//DOCS here!
+nx.tlog('log1');
+nx.tlog('log2', 'log3');
 ```
 
 ## license
