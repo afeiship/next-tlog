@@ -3,7 +3,7 @@
  * description: Show log to document title.
  * homepage: https://github.com/afeiship/next-tlog
  * version: 1.0.0
- * date: 2020-11-20 21:01:52
+ * date: 2020-11-20 21:03:46
  * license: MIT
  */
 
